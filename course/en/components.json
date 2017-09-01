@@ -1,0 +1,4759 @@
+[
+  {
+    "_id": "596739651568f8e516393327",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739651568f8e516393326",
+    "__v": 0,
+    "_refId": "59157ffaab2b7fcd1eabe81a",
+    "body": "<p></p><div>Data dashboards display metrics on traffic and performance. They help you to make good decisions about your product.&nbsp;</div><p><br></p><p>Let's look at:</p><ul><li>What a data informed mentality is&nbsp;<br></li><li>What strong metrics are<br></li><li>Which metrics could be appropriate to your stage</li></ul><p></p>",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Intro",
+    "_type": "component",
+    "_courseOrder": "0-0-0-0"
+  },
+  {
+    "_id": "596739651568f8e516393320",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739651568f8e51639331f",
+    "__v": 0,
+    "_refId": "5915807eab2b7fcd1eabe81c",
+    "body": "<p style=\"text-align: left;\">If you have done other DBA courses, you'll be familiar with the Lean approach to developing products.&nbsp;</p><p style=\"text-align: left;\" class=\"\">That involves<span style=\"font-size: 16px;\">:</span></p><ul><li style=\"text-align: left;\" class=\"\">making a guess (hypothesis)<br></li><li style=\"text-align: left;\">doing some work to test it (experiment)<br></li><li style=\"text-align: left;\">measuring the results (analytics).<br></li></ul><p style=\"text-align: left;\"><br></p><p>A data informed business should be gathering data that helps them to ask the right questions and decide on a good course of action.&nbsp;<br></p><p><br></p><p>Finding the right things to measure takes time, thinking and iteration.&nbsp;</p><p><br></p><p>The figures need to be interpreted in context with your experiences and intuitions too.&nbsp;Doing this right is part art and part science.&nbsp;</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">Having too much data and failing to take account of context can be distracting and misleading, so a nuanced approach is recommended.&nbsp;</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">This is called being data informed (rather than data driven).&nbsp;</p>",
+    "displayTitle": "What does it mean to be data informed?&nbsp;",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "What does it mean to be data informed? ",
+    "_type": "component",
+    "_courseOrder": "0-1-0-0"
+  },
+  {
+    "_id": "596739651568f8e516393321",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739651568f8e51639331f",
+    "__v": 0,
+    "_refId": "5915808aab2b7fcd1eabe81e",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5943eb82d28411ea17b91473"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-1-0-1"
+  },
+  {
+    "_id": "596739641568f8e516393315",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739641568f8e516393314",
+    "__v": 0,
+    "_refId": "59158687ab2b7fcd1eabe823",
+    "displayTitle": "Attributes of a good KPI",
+    "body": "<p>Each business will choose how many metrics to focus on.&nbsp;</p><p><br></p><p>In the early days, just having one metric could help you to stay focused.&nbsp;</p><p><br></p><p>Here are four criteria to help you pick a suitable metric that will really help you to make good decisions (rather than just feel good about yourself).&nbsp;</p>",
+    "instruction": "",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Tied to the product",
+        "itemIndex": 0,
+        "_id": "591586a9ab2b7fcd1eabe824",
+        "body": "<p>This means that when this number changes, something has changed about your business.</p><p><br></p><p>This must represent both good and bad change.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Being measured as a rate or ratio",
+        "_id": "591586b5ab2b7fcd1eabe825",
+        "itemIndex": 1,
+        "body": "<p>In younger companies, the overall size of the number doesn’t matter.</p><p><br></p><p>Is having 10 customers good or great? You just don’t know yet.&nbsp;<span style=\"font-size: 16px;\">But measuring how quickly your customer base is growing, that is important.&nbsp;</span></p><p><br></p><p>Being able to say that 'our customer base is up 30% from last week' is much more insightful.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Comparable",
+        "itemIndex": 2,
+        "_id": "591586d4ab2b7fcd1eabe826",
+        "body": "<p>A good KPI should be comparable to other activities in your business and to your competitors.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Explainable",
+        "_id": "591586ebab2b7fcd1eabe827",
+        "itemIndex": 3,
+        "body": "<p>If you can’t explain what a KPI represents to someone else involved in your business (employee, partner, investor) then it’s too complicated.&nbsp;</p><p><br></p><p>Stick to simple numbers.</p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Attributes of a good KPI",
+    "_type": "component",
+    "_courseOrder": "0-2-0-0"
+  },
+  {
+    "_id": "596739661568f8e516393335",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739661568f8e516393333",
+    "__v": 0,
+    "_refId": "5930450902778c512a0afbdf",
+    "body": "<p>Devin Hunt walks us through examples of strong metrics to measure performance in a startup.</p>",
+    "displayTitle": "How to write better KPI",
+    "instruction": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "How to write better KPI",
+    "_type": "component",
+    "_courseOrder": "0-3-0-0"
+  },
+  {
+    "_id": "596739661568f8e516393334",
+    "_component": "videoStream",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739661568f8e516393333",
+    "__v": 0,
+    "_refId": "5930450502778c512a0afbde",
+    "_media": {
+      "_source": "<iframe src=\"https://player.vimeo.com/video/217150878\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/217150878\">C9M2 : Key performance indicators (KPI)</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+      "_isLightTheme": false,
+      "_isAllowFullscreen": true,
+      "_isAutoHideControls": true,
+      "_isShowClosedCaptions": false,
+      "_isHD": true,
+      "_isKeyboardDisabled": false,
+      "_isLoop": false,
+      "_isShowRelated": false,
+      "_isAutoPlay": false
+    },
+    "_service": "vimeo",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "0-3-0-1"
+  },
+  {
+    "_id": "596739661568f8e516393331",
+    "_component": "textNarrative",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739651568f8e516393330",
+    "__v": 0,
+    "_refId": "5943ed8cd28411ea17b91475",
+    "displayTitle": "Examples of good KPI",
+    "body": "<p>This section includes some popular key performance indicators (KPI) you might consider using.&nbsp;</p>",
+    "instruction": "",
+    "_items": [
+      {
+        "body": "<p>Monthly active users: the number of people using your app/product website every month</p>",
+        "itemIndex": 0,
+        "_id": "5943ee28d28411ea17b91476",
+        "title": "<div><b style=\"font-size: 16px;\">MAU</b><br></div>"
+      },
+      {
+        "body": "<p>Daily active users: the number of people using your app/product website every month.</p>",
+        "_id": "5943ee29d28411ea17b91477",
+        "itemIndex": 1,
+        "title": "<div><b style=\"font-size: 16px;\">DAU</b><br></div>"
+      },
+      {
+        "body": "<p>Average revenue per user: how much money you make per user on your site.</p><p><br></p><p>For example, 100 users who bring in 1000 dollars.&nbsp;</p><p><br></p><p>The ARPU is $10.</p>",
+        "title": "<div><b style=\"font-size: 16px;\">ARPU</b><br></div>",
+        "itemIndex": 2,
+        "_id": "5943ee2ad28411ea17b91478"
+      },
+      {
+        "body": "<p>Customer lifetime value.</p><p><br></p><p>For example, for a café owner, the CLV is the total amount of money they make from customers, from their first visit to their last.</p>",
+        "_id": "5943ee2ad28411ea17b91479",
+        "itemIndex": 3,
+        "title": "<div><b style=\"font-size: 16px;\">CLV</b><br></div>"
+      },
+      {
+        "body": "<p>This is the average score you get from customers answering to the question 'how likely would you be to recommend our product or service'?</p>",
+        "itemIndex": 4,
+        "_id": "5943ee2bd28411ea17b9147a",
+        "title": "<div><b>Net promoter score</b><br></div>"
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget",
+      "_incomplete": {
+        "icon": "arrow-right",
+        "label": "Click to slide!"
+      },
+      "_complete": {
+        "label": "All done!",
+        "icon": "check"
+      }
+    },
+    "_isInteractionLabelEnabled": true,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Examples of good KPI",
+    "_type": "component",
+    "_courseOrder": "0-4-0-0"
+  },
+  {
+    "_id": "596739651568f8e51639332b",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739651568f8e516393329",
+    "__v": 0,
+    "_refId": "5930452a02778c512a0afbe3",
+    "displayTitle": "Founders' stories: KPI at Songkick",
+    "body": "<p>Michelle Yu, founder of Songkick, shares how they picked their first KPI, the mistakes they made and how they tweaked their KPI over time.&nbsp;</p>",
+    "instruction": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Founders' stories: KPI at Songkick",
+    "_type": "component",
+    "_courseOrder": "0-5-0-0"
+  },
+  {
+    "_id": "596739651568f8e51639332a",
+    "_component": "videoStream",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739651568f8e516393329",
+    "__v": 0,
+    "_refId": "5930451e02778c512a0afbe1",
+    "_media": {
+      "_source": "<iframe src=\"https://player.vimeo.com/video/217151211\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/217151211\">C9M2 : Interview+with+Michelle+You</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+      "_isLightTheme": false,
+      "_isAllowFullscreen": true,
+      "_isAutoHideControls": true,
+      "_isShowClosedCaptions": false,
+      "_isHD": true,
+      "_isKeyboardDisabled": false,
+      "_isLoop": false,
+      "_isShowRelated": false,
+      "_isAutoPlay": false
+    },
+    "_service": "vimeo",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "0-5-0-1"
+  },
+  {
+    "_id": "599c0677c7e58f501fad3a80",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739661568f8e516393337",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599c0677c7e58f501fad3a80",
+    "body": "<p>Collect 50 points for every correct answer</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "0-6-0-0"
+  },
+  {
+    "_id": "596739641568f8e516393318",
+    "_component": "mcq",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739641568f8e516393317",
+    "__v": 0,
+    "body": "<p>When making decisions, it’s important to combine personal experience and insights&nbsp;with hard data and evidence.</p><p><br></p><p>What is this approach called?&nbsp;</p>",
+    "displayTitle": "Your approach to metrics&nbsp;",
+    "_refId": "58eb4511192f4e895e96abd5",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Are you sure about that?</b>&nbsp;</p><p><br></p><p>Data is important but it must be taken in context with broader insights and qualitative insights.<span style=\"font-size: 16px;\">&nbsp;</span></p>",
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>Data is important but it must be taken in context with broader insights and qualitative insights.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>Data is important but it must be taken in context with broader insights and qualitative insights.&nbsp;</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>Data is important but it must be taken in context with broader insights and qualitative insights.</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "58e65268c5364e5c79974b98",
+        "text": "Data driven"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Data informed",
+        "_id": "58e65273c5364e5c79974b99",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Data optimised",
+        "_id": "58e65279c5364e5c79974b9a",
+        "itemIndex": 2
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": true
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_pointsAwarded": 0,
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "T9C1Q1 Your approach to metrics ",
+    "_type": "component",
+    "_courseOrder": "0-7-0-0"
+  },
+  {
+    "_id": "596739641568f8e516393319",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739641568f8e516393317",
+    "__v": 0,
+    "_refId": "58eb6b2a192f4e895e96ad49",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "593820bbc6c9a4904fcc6e2e"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-7-0-1"
+  },
+  {
+    "_id": "596739651568f8e51639332e",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739651568f8e51639332d",
+    "__v": 0,
+    "_refId": "59159396ab2b7fcd1eabe836",
+    "body": "<p>According to Lean analytics, what should companies be measuring while they are still searching for a solid business model?&nbsp;</p>",
+    "displayTitle": "Appropriate KPI",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>As a new business finds its' place in the market, it should choose metrics that focus on stickiness and empathy. These will keep the business focused on finding a business model that works.</p><p><br></p><p>Once the business is established in the market, it should choose metrics that focus on scale and vitality which will help it to grow.</p>",
+        "final": "<p><b>Are you sure about that?</b></p><p><br></p><p>As a new business finds its' place in the market, it should choose metrics that focus on stickiness and empathy. These will keep the business focused on finding a business model that works. </p><p><br></p><p>Once the business is established in the market, it should choose metrics that focus on scale and vitality which will help it to grow.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>As a new business finds its place in the market, it should choose metrics that focus on stickiness and empathy. These will keep the business focused on finding a business model that works.&nbsp;</p><p><br></p><p>Once the business is established in the market, it should choose metrics that focus on scale and vitality which will help it to grow.</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Sales and marketing",
+        "_id": "59159420ab2b7fcd1eabe83c",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "59159427ab2b7fcd1eabe83d",
+        "text": "Empathy and stickiness"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "5915942eab2b7fcd1eabe83e",
+        "text": "Scale and virality"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Conversions",
+        "_id": "59159435ab2b7fcd1eabe83f",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": true
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_pointsAwarded": 0,
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "T9C1Q2 Appropriate KPI",
+    "_type": "component",
+    "_courseOrder": "0-8-0-0"
+  },
+  {
+    "_id": "596739641568f8e51639331c",
+    "_component": "mcq",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739641568f8e51639331b",
+    "__v": 0,
+    "displayTitle": "What makes good metrics?",
+    "body": "<p>Which two of the following are attributes of good KPI?&nbsp;</p>",
+    "_refId": "58eb4511192f4e895e96abde",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>Good metrics should tie directly to the business’s progress and be comparable.</p>",
+        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>Good metrics should tie directly to the business’s progress and be comparable.<br></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>Good metrics should tie directly to the business’ progress and be comparable.</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p>T<b>hat's right!&nbsp;</b></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">Good metrics should tie directly to the business’s progress and be comparable.</span></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "58d3b7f913b751d90c4ed970",
+        "text": "Be comparable"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "58d3b80013b751d90c4ed972",
+        "text": "Tie directly to the business’s progress"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "58d3b80713b751d90c4ed973",
+        "text": "Always be expressed as money (£, $)"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "58d3b80e13b751d90c4ed974",
+        "text": "Be derived from future predictions"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 2,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": true
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_pointsAwarded": 0,
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "T9C1Q3 What makes good metrics?",
+    "_type": "component",
+    "_courseOrder": "0-9-0-0"
+  },
+  {
+    "_id": "596739641568f8e51639331d",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739641568f8e51639331b",
+    "__v": 0,
+    "_refId": "58eb4511192f4e895e96abdf",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "59381278c6c9a4904fcc6dee"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "0-9-0-1"
+  },
+  {
+    "_id": "596739651568f8e516393324",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739651568f8e516393323",
+    "__v": 0,
+    "body": "<p>Dashboards help you to make good decisions about your product.&nbsp;</p><p><br></p><p>Don't forget that data isn't everything and that finding the right things to measure is an ongoing project.&nbsp;</p>",
+    "_refId": "58eb4511192f4e895e96abe9",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "What should I measure? Let's wrap it up",
+    "_type": "component",
+    "_courseOrder": "0-10-0-0"
+  },
+  {
+    "_id": "596739691568f8e51639336a",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739691568f8e516393369",
+    "__v": 0,
+    "body": "<p>Cohorts is a technique used to group customers by some similar attribute.&nbsp;<br></p><p><br></p><p>Let's have a look at:</p><ul><li>What a cohort analysis is</li><li>How you set up a cohort analysis&nbsp;</li><li>How to analyse a cohort dashboard</li></ul>",
+    "_refId": "58eb6b65192f4e895e96ad4d",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Make sense of data through cohorts",
+    "_type": "component",
+    "_courseOrder": "1-0-0-0"
+  },
+  {
+    "_id": "596739691568f8e51639336d",
+    "_component": "iFrame",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739691568f8e51639336c",
+    "__v": 0,
+    "_source": "<iframe src=\"https://player.vimeo.com/video/217163746\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/217163746\">C9M3 : Introduction to cohorts</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+    "body": "<p>Here's an explanation of cohort analysis and how you can use it right away.&nbsp;</p><p><br></p><p>This is a long one, but worthwhile, so take your time with each part and follow along with the examples discussed.<br></p>",
+    "_refId": "58eb4516192f4e895e96ad0f",
+    "displayTitle": "What are cohorts?",
+    "instruction": "",
+    "_frameHeight": {
+      "_mobile": 300,
+      "_desktop": 500
+    },
+    "_isEmbeddedFile": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "What are cohorts?",
+    "_type": "component",
+    "_courseOrder": "1-1-0-0"
+  },
+  {
+    "_id": "596739691568f8e516393377",
+    "_component": "iFrame",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739691568f8e516393376",
+    "__v": 0,
+    "_refId": "5915a9f3ab2b7fcd1eabe848",
+    "_source": "<iframe src=\"https://player.vimeo.com/video/217163980\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/217163980\">C9M3 : Marie Hopster on Cohorts 1</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+    "body": "<p>Marie discusses the metrics that Hopster used to gauge the success of their marketing efforts.</p>",
+    "displayTitle": "Founders' stories: Hopster and cohort analysis",
+    "instruction": "",
+    "_frameHeight": {
+      "_mobile": 300,
+      "_desktop": 500
+    },
+    "_isEmbeddedFile": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Founder stories: Hopster and cohort analysis",
+    "_type": "component",
+    "_courseOrder": "1-2-0-0"
+  },
+  {
+    "_id": "599c068fc7e58f501fad3a81",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396a1568f8e51639337d",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599c068fc7e58f501fad3a81",
+    "body": "<p>Collect 75 points for every correct answer</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "1-3-0-0"
+  },
+  {
+    "_id": "596739691568f8e516393370",
+    "_component": "mcq",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739691568f8e51639336f",
+    "__v": 0,
+    "body": "<p>Cohorts are techniques used to group customers &nbsp;by some similar attribute.&nbsp;</p><p><br></p><p>Which one is useful?&nbsp;</p>",
+    "_refId": "58eb4516192f4e895e96ad12",
+    "displayTitle": "What is a cohort?",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>Cohort analysis can reveal trends which disappear when you only look at averages.&nbsp;</p>",
+        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>Cohort analysis can revea<span style=\"font-size: 16px;\">l trends which disappear when you only look at averages.&nbsp;</span></p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>Cohort analysis can reveal trends which disappear when you only look at averages.&nbsp;</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "They look good in a pitch slide deck",
+        "_id": "58eb6c24192f4e895e96ad52",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "They help to match customers to products",
+        "_id": "58eb6c29192f4e895e96ad54",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "They identify your single best customer out of a group",
+        "_id": "58eb6c2e192f4e895e96ad56",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "They reveal interesting patterns that could be hidden by averaging things together",
+        "_id": "58eb6c33192f4e895e96ad57",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": true
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_pointsAwarded": 75,
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "T9C2Q1 What is a cohort?",
+    "_type": "component",
+    "_courseOrder": "1-4-0-0"
+  },
+  {
+    "_id": "596739691568f8e516393371",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739691568f8e51639336f",
+    "__v": 0,
+    "_refId": "5915c780ab2b7fcd1eabe876",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5943ff54d28411ea17b9147b"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "1-4-0-1"
+  },
+  {
+    "_id": "5967396a1568f8e51639337b",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739691568f8e516393379",
+    "__v": 0,
+    "_refId": "5915c6d6ab2b7fcd1eabe875",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5943ffedd28411ea17b9147c"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "1-5-0-0"
+  },
+  {
+    "_id": "596739691568f8e51639337a",
+    "_component": "mcq",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739691568f8e516393379",
+    "__v": 0,
+    "_refId": "5915c6d3ab2b7fcd1eabe874",
+    "body": "<p>Consider this scenario.</p><p><br></p><p>You are developing a mobile app for shopping.&nbsp;Every 5 - 6 weeks you publish a new version of the app.&nbsp;</p><p><br></p><p>Which one of the following is the best way to group cohorts to monitor the effect the app updates are having?</p>",
+    "displayTitle": "How to group cohorts",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>In this case, the best way to group users into cohorts is by looking at the version of the app they were using.&nbsp;</p>",
+        "final": "<p><b>Are you sure about that?</b>&nbsp;</p><p><br></p><p>In this case, the best way to group users into cohorts is by looking at the version of the app they were using.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>In this case, the best way to group users into cohorts is by looking at the version of the app they were using.&nbsp;<br></p><p><br></p><p><br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Week customer joined",
+        "_id": "5915c836ab2b7fcd1eabe878",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "5915c83bab2b7fcd1eabe879",
+        "text": "Week customer bought first item"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Number of items bought",
+        "_id": "5915c841ab2b7fcd1eabe87a",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "5915c847ab2b7fcd1eabe87b",
+        "text": "App version when customer joined"
+      }
+    ],
+    "_shouldUseQuestionGraphic": true,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": true
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_pointsAwarded": 75,
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "T9C2Q2 How to group cohorts",
+    "_type": "component",
+    "_courseOrder": "1-5-0-1"
+  },
+  {
+    "_id": "596739691568f8e516393374",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739691568f8e516393373",
+    "__v": 0,
+    "body": "<p>Cohort analysis is one of the most powerful and simple techniques for analysing performance.&nbsp;</p><p><br></p><p>Segmentation of your customers into cohorts and measuring how they change behaviour provides you with information to make decisions.</p><p><br></p><p>Cohort analysis can be used to monitor marketing, new product features, how well sales are converting - just about anything, really!</p>",
+    "_refId": "58eb4516192f4e895e96ad21",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Make sense of data through cohorts. Let's wrap it up",
+    "_type": "component",
+    "_courseOrder": "1-6-0-0"
+  },
+  {
+    "_id": "5967396a1568f8e516393385",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396a1568f8e516393384",
+    "__v": 0,
+    "_refId": "5922b1be02778c512a0af056",
+    "displayTitle": "",
+    "body": "<p style=\"text-align: left;\">Startup businesses use funnels to 'stage' their customers' journey through cohorts.</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">Let's look at:</p><ul><li style=\"text-align: left;\">What funnels might look like for a startup</li><li style=\"text-align: left;\">How to combine funnels with cohorts</li></ul>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Funnels",
+    "_type": "component",
+    "_courseOrder": "2-0-0-0"
+  },
+  {
+    "_id": "5967396a1568f8e516393381",
+    "_component": "accordion",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396a1568f8e516393380",
+    "__v": 0,
+    "_refId": "5915aeefab2b7fcd1eabe859",
+    "displayTitle": "Steps of the funnel",
+    "body": "<p>Here is a summary of the steps in a typical funnel.</p>",
+    "instruction": "",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 0,
+        "_id": "5915b153ab2b7fcd1eabe85a",
+        "body": "<p><span style=\"font-size: 16px;\">Acquisition measures how many people enter the funnel.&nbsp;</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">An acquisition event should be tied to a potential customer understanding of what you’re offering as a company.&nbsp;</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">For a job site like Escape the City, this is someone arriving on their homepage. Everyone who hits their front page is a potential customer.</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">For coffee roasters Pact Coffee, it’s when a customer orders their first bag of coffee.</span></p>",
+        "title": "Acquisition"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "itemIndex": 1,
+        "_id": "5915b167ab2b7fcd1eabe85b",
+        "body": "<p><span style=\"font-size: 16px;\">The activation step should measure when a customer is using your business / service as it’s intended.</span></p>",
+        "title": "Activation<br>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Retention",
+        "body": "<p><span style=\"font-size: 16px;\">Retention is the most important metric for a startup.&nbsp;</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">This goal must correspond to a user becoming a meaningful customer.</span></p>",
+        "_id": "5915b17dab2b7fcd1eabe85c",
+        "itemIndex": 2
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Referral",
+        "_id": "5915b191ab2b7fcd1eabe85d",
+        "itemIndex": 3,
+        "body": "<p><span style=\"font-size: 16px;\">When a customer actively brings in new customers.</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">&nbsp;Not all companies have that step.</span></p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Revenue",
+        "_id": "5915b1a3ab2b7fcd1eabe85e",
+        "itemIndex": 4,
+        "body": "<p><span style=\"font-size: 16px;\">Easy!&nbsp;</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">Are you making money from a customer now?&nbsp;</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">Often money can be made early in the customer journey, so this should tie to repeatable or significant revenue.</span></p>"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Steps of the funnel",
+    "_type": "component",
+    "_courseOrder": "2-1-0-0"
+  },
+  {
+    "_id": "5967396a1568f8e516393382",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396a1568f8e516393380",
+    "__v": 0,
+    "_refId": "5922b20d02778c512a0af057",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5948dc1059319c6b51c5bd3e"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "2-1-0-1"
+  },
+  {
+    "_id": "5967396b1568f8e516393398",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396b1568f8e516393396",
+    "__v": 0,
+    "_refId": "593047b802778c512a0afbe9",
+    "body": "<p>We’ll break down how different businesses use funnels and how they chose different funnel stages.</p>",
+    "displayTitle": "Founder stories: Pact Coffee and funnels",
+    "instruction": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Founder stories: Pact Coffee and funnels",
+    "_type": "component",
+    "_courseOrder": "2-2-0-0"
+  },
+  {
+    "_id": "5967396b1568f8e516393397",
+    "_component": "videoStream",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396b1568f8e516393396",
+    "__v": 0,
+    "_refId": "593047b302778c512a0afbe8",
+    "_media": {
+      "_source": "<iframe src=\"https://player.vimeo.com/video/217169157\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/217169157\">C9M4 - Funnel Case Studies</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+      "_isLightTheme": false,
+      "_isAllowFullscreen": true,
+      "_isAutoHideControls": true,
+      "_isShowClosedCaptions": false,
+      "_isHD": true,
+      "_isKeyboardDisabled": false,
+      "_isLoop": false,
+      "_isShowRelated": false,
+      "_isAutoPlay": false
+    },
+    "_service": "vimeo",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "2-2-0-1"
+  },
+  {
+    "_id": "5967396a1568f8e516393389",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396a1568f8e516393387",
+    "__v": 0,
+    "_refId": "593047ad02778c512a0afbe7",
+    "body": "<p>This blog post - a KPI dashboard for early-stage SaaS startups - is a great example of a complete dashboard that you can use with your business today.&nbsp;</p><p><br></p><p>It is written by Christoph Janz, an investor who shows how he combines the best of all systems into a single spreadsheet.</p>",
+    "displayTitle": "Funnel with cohorts",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Funnel with cohorts",
+    "_type": "component",
+    "_courseOrder": "2-3-0-0"
+  },
+  {
+    "_id": "5967396a1568f8e516393388",
+    "_component": "videoStream",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396a1568f8e516393387",
+    "__v": 0,
+    "_refId": "593047a802778c512a0afbe6",
+    "_media": {
+      "_source": "<iframe src=\"https://player.vimeo.com/video/217169818\" width=\"640\" height=\"480\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/217169818\">C9M4 - Funnels with cohorts</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+      "_isLightTheme": false,
+      "_isAllowFullscreen": true,
+      "_isAutoHideControls": true,
+      "_isShowClosedCaptions": false,
+      "_isHD": true,
+      "_isKeyboardDisabled": false,
+      "_isLoop": false,
+      "_isShowRelated": false,
+      "_isAutoPlay": false
+    },
+    "_service": "vimeo",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "2-3-0-1"
+  },
+  {
+    "_id": "599c069bc7e58f501fad3a82",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396b1568f8e51639339d",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599c069bc7e58f501fad3a82",
+    "body": "<p>Collect 50 points for every correct answer</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "2-4-0-0"
+  },
+  {
+    "_id": "5967396a1568f8e51639338c",
+    "_component": "mcq",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396a1568f8e51639338b",
+    "__v": 0,
+    "_refId": "5915cd6bab2b7fcd1eabe889",
+    "body": "<p>Each goal of the funnel should be designed with what in mind?</p><p><br></p><p>One of these is correct.</p>",
+    "displayTitle": "Purpose of the funnel",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>The goal must relate directly to some customer action that can be measured.</p>",
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>The goal must relate directly to some customer action that can be measured.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>The goal must relate directly to some customer action that can be measured.</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p><span style=\"font-size: 16px;\">The goal must relate directly to some customer action that can be measured.</span></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "The goal must always be tied to earning money",
+        "_id": "5915cd82ab2b7fcd1eabe88b",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "5915cd86ab2b7fcd1eabe88c",
+        "text": "The goal must relate directly to some customer action that can be measured"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "The goal must be measured using customer interviews",
+        "_id": "5915cd8aab2b7fcd1eabe88d",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "5915cd90ab2b7fcd1eabe88e",
+        "text": "The goal must happen on a website or inside an app"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": true
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_pointsAwarded": 0,
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "T9C3Q1 Purpose of the funnel",
+    "_type": "component",
+    "_courseOrder": "2-5-0-0"
+  },
+  {
+    "_id": "5967396b1568f8e51639338d",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396a1568f8e51639338b",
+    "__v": 0,
+    "_refId": "5915cd70ab2b7fcd1eabe88a",
+    "displayTitle": "",
+    "body": "",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5948dcd959319c6b51c5bd3f"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "2-5-0-1"
+  },
+  {
+    "_id": "5967396b1568f8e516393390",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396b1568f8e51639338f",
+    "__v": 0,
+    "_refId": "5915cf24ab2b7fcd1eabe89e",
+    "body": "<p>Consider this scenario.</p><p><br></p><p>By the second week, the company behind this data decided to put all their efforts into converting customers into paying customers.&nbsp;</p><p><br></p><p>Did their efforts pay off?</p>",
+    "displayTitle": "Interpreting cohort data",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Are you sure about that?</b></p><p><br></p><p>Overall, the number of paying users goes up after week 2. </p><p><br></p><p>Paying customers in week 2 was 0% of 2204 so 0.</p><p>Paying customers in week 3 was 2% of 2587 so 52</p><p>Paying customers in week 4 was 4% of 1242 so  50</p><p>Paying customers in week 5 was 6% of 2138 so 129</p>",
+        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>Overall, the number of paying users goes up after week 2.</p><p><br></p><p>Paying customers in week 2 was 0% of 2204 so 0.</p><p>Paying customers in week 3 was 2% of 2587 so 52</p><p>Paying customers in week 4 was 4% of 1242 so 50</p><p>Paying customers in week 5 was 6% of 2138 so 129</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that?</b></p><p><br></p><p>Overall, the number of paying users goes up after week 2.</p><p><br></p><p>Paying customers in week 2 was 0% of 2204 so 0.</p><p>Paying customers in week 3 was 2% of 2587 so 52</p><p>Paying customers in week 4 was 4% of 1242 so 50</p><p>Paying customers in week 5 was 6% of 2138 so 129</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>Overall, the number of paying users goes up after week 2.&nbsp;</p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">Paying customers in week 2 was 0% of&nbsp;</span><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">2204 so 0.</span><br></p><p>Paying customers in week 3 was 2% of&nbsp;2587 so 52</p><p><span style=\"font-size: 16px;\">Paying customers in week 4 was 4% of&nbsp;</span><span style=\"background-color: rgb(255, 255, 255); font-size: 16px;\">1242 so &nbsp;50</span></p><p>Paying customers in week 5 was  6% of 2138 so 129<span style=\"font-size: 16px;\"><br></span></p><p><br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "5915cf37ab2b7fcd1eabe89f",
+        "text": "No. Revenue is decreasing for each cohort"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Yes. They were making money from the first week",
+        "_id": "5915cf3eab2b7fcd1eabe8a0",
+        "itemIndex": 1
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "5915cf43ab2b7fcd1eabe8a1",
+        "text": "No. They are losing money every week"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Yes. Revenue is increasing from the third week",
+        "_id": "5915cf48ab2b7fcd1eabe8a2",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": true
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_pointsAwarded": 0,
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "T9C3Q2 Interpreting cohort data",
+    "_type": "component",
+    "_courseOrder": "2-6-0-0"
+  },
+  {
+    "_id": "5967396b1568f8e516393393",
+    "_component": "mcq",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396b1568f8e516393392",
+    "__v": 0,
+    "_refId": "5915cfcfab2b7fcd1eabe8a8",
+    "body": "<p>What is the first goal (also called a stage) in a startup metrics funnel?</p>",
+    "displayTitle": "Stages of the startup funnel",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>Acquisition is the first step of the startup funnel.</p>",
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>Acquisition is the first step of the startup funnel.</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>Acquisition is the first step of the startup funnel.</p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>Acquisition is the first step of the startup funnel.</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Acquisition",
+        "_id": "5915cfe3ab2b7fcd1eabe8aa",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "5915cfe9ab2b7fcd1eabe8ab",
+        "text": "Revenue"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Retention",
+        "_id": "5915cfeeab2b7fcd1eabe8ac",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "5915cff4ab2b7fcd1eabe8ad",
+        "text": "Activation"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": true
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_pointsAwarded": 0,
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "T9C3Q3 Stages of the startup funnel",
+    "_type": "component",
+    "_courseOrder": "2-7-0-0"
+  },
+  {
+    "_id": "5967396b1568f8e516393394",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396b1568f8e516393392",
+    "__v": 0,
+    "_refId": "5915d00aab2b7fcd1eabe8ae",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5948de0259319c6b51c5bd40"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "2-7-0-1"
+  },
+  {
+    "_id": "5967396b1568f8e51639339b",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "5967396b1568f8e51639339a",
+    "__v": 0,
+    "_refId": "5922b9b002778c512a0af060",
+    "displayTitle": "",
+    "body": "<p>The startup funnel is a series of milestones in a customer's journey.&nbsp;</p><p><br></p><p>Businesses need to tie these to unique customer actions in their own business context.&nbsp;</p><p><br></p><p>By combining cohorts and funnels, businesses can get a detailed breakdown of where customers might be dropping off and the impact that different interventions might have on customers' behaviour.&nbsp;</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Convert customers using the funnel. Let's wrap it up",
+    "_type": "component",
+    "_courseOrder": "2-8-0-0"
+  },
+  {
+    "_id": "596739661568f8e51639333b",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739661568f8e51639333a",
+    "__v": 0,
+    "body": "<p>There are a range of formats for gathering data, including analytics, surveys, Net Promoter Scores, and rich case studies. </p><p><br></p><p>There are a multitude of ways to share the data with colleagues in a clear and meaningful way.</p><p><br></p><p>Let's look at:</p><ul><li>How analytics works and what it is useful for&nbsp;</li><li>What Net Promoter Scores is and how it is calculated&nbsp;<br></li><li>When and how surveys can be useful&nbsp;</li><li>How to share data with clients through case studies</li><li>How to share data with colleagues through dashboards&nbsp;</li></ul>",
+    "_refId": "58eb4513192f4e895e96ac98",
+    "displayTitle": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Capture data for analytics",
+    "_type": "component",
+    "_courseOrder": "3-0-0-0"
+  },
+  {
+    "_id": "596739671568f8e51639334c",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739671568f8e51639334b",
+    "__v": 0,
+    "_refId": "5915d647ab2b7fcd1eabe8b4",
+    "displayTitle": "What is analytics?",
+    "body": "<p>Analytics is data about how and where customers are moving around on your website.&nbsp;</p><p><br></p><p>This software suite (there are several you can choose from) can tell you which sources customers came from, for example Facebook, Adwords, SEO.</p><p><br></p><p>It can also be set up to track particular events, such as every time customers sign up to an email or make a sale.&nbsp;</p><p><br></p><p>Using some form of analytics is a must to understand how your customers are currently interacting with you and how you can do better.&nbsp;</p>",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "What is analytics?",
+    "_type": "component",
+    "_courseOrder": "3-1-0-0"
+  },
+  {
+    "_id": "596739671568f8e51639334d",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739671568f8e51639334b",
+    "__v": 0,
+    "_refId": "5922c00302778c512a0af064",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5948de9459319c6b51c5bd41"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "3-1-0-1"
+  },
+  {
+    "_id": "596739681568f8e516393357",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739671568f8e516393356",
+    "__v": 0,
+    "_refId": "5915d6b8ab2b7fcd1eabe8b5",
+    "body": "<p>Here is an overview of some popular analytics tools.</p><p><br></p><p>Some are free, but some cost.</p>",
+    "displayTitle": "Useful analytics tools",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Google analytics",
+        "itemIndex": 0,
+        "_id": "5915d6d5ab2b7fcd1eabe8b6",
+        "body": "<p>The gold standard.&nbsp;</p><p><br></p><p>This widely used analytics package is available online and can be used with almost any website creator.&nbsp;</p><p><br></p><p>It allows you to track page views and traffic sources, right out of the box. If you are using any type of online ads for marketing, this is a must.</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Kissmetrics and Mixpanel",
+        "body": "<p>These analytics packages offer similar features to Google analytics, but both shine in one key area: funnels.&nbsp;</p><p><br></p><p>Both of these services were built to help understand and optimise your sales and boarding funnels. They are also very mature and work well with many other services.</p>",
+        "_id": "5915d6e3ab2b7fcd1eabe8b7",
+        "itemIndex": 1
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "GoSquared",
+        "body": "<p>Originally launched as the first real time analytics service, GoSquared has grown into a robust online analytics package which can perform all the functions of the above competitors.</p>",
+        "_id": "5915d6f0ab2b7fcd1eabe8b8",
+        "itemIndex": 2
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "TruRating",
+        "body": "<p>If you have retail locations, TruRating allows you to collect customer analytics directly from the point of sale.</p><p><br></p><p>This allows physical stores to be as responsive as online outlets.<br></p>",
+        "_id": "5915d6fdab2b7fcd1eabe8b9",
+        "itemIndex": 3
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Useful analytics tools",
+    "_type": "component",
+    "_courseOrder": "3-2-0-0"
+  },
+  {
+    "_id": "596739681568f8e516393361",
+    "_component": "iFrame",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739681568f8e516393360",
+    "__v": 0,
+    "_refId": "5915d7c8ab2b7fcd1eabe8c1",
+    "_source": "<iframe src=\"https://player.vimeo.com/video/217190208\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/217190208\">C9M5 : Net Promoter Score</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+    "body": "<p>Devin Hunt introduces us to the Net Promoter Score, an important way to measure the performance of your business.</p>",
+    "displayTitle": "What is a Net Promoter Score (NPS)?",
+    "instruction": "",
+    "_frameHeight": {
+      "_mobile": 300,
+      "_desktop": 500
+    },
+    "_isEmbeddedFile": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "What is a Net Promoter Score (NPS)?",
+    "_type": "component",
+    "_courseOrder": "3-3-0-0"
+  },
+  {
+    "_id": "596739671568f8e516393349",
+    "_component": "flowChart",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739671568f8e516393348",
+    "__v": 0,
+    "_refId": "5930490802778c512a0afbeb",
+    "displayTitle": "Using the Net Promoter Score",
+    "body": "<p>the Net Promoter Score (NPS) is a number between minus 100 and 100 that represents the proportion of customers who are advocates. </p><p><br></p><p>So how does it work?&nbsp;</p>",
+    "instruction": "",
+    "_items": [
+      {
+        "_itemGraphicLayout": "bottom",
+        "_itemGraphicWidth": "half",
+        "title": "",
+        "body": "<p>Customers are asked the question:</p><p><br></p><p>How likely is it that you would recommend our company/product/service to a friend or colleague?</p><p><br></p><p>They express their answer as a number between 0 (no likelihood) and 10 (absolutely!)</p>",
+        "itemIndex": 0
+      },
+      {
+        "_itemGraphicLayout": "bottom",
+        "_itemGraphicWidth": "half",
+        "body": "<p>People who answer 9 to 10 are promoters - the engaged portion of your customer base who will promote your products organically and bring in more business. </p><p><br></p><p>Those who rate between 0 to 6 are detractors and are considered unhappy customers. </p><p><br></p><p>Those who rate between 7 to 8 are considered passive and have no positive or negative effect on your company’s future.</p>",
+        "title": "",
+        "itemIndex": 1
+      },
+      {
+        "_itemGraphicLayout": "bottom",
+        "_itemGraphicWidth": "half",
+        "body": "<p>To calculate your business’s NPS, subtract the percentage of detractors from the percentage of promoters.</p><p><br></p><p>NPS = % promoters - % detractors</p><p><br></p><p>In other words:</p><p><br></p><p>NPS = (number of promoters - number of detractors) / (total people asked)</p><p><br></p><p>NPS can range from minus 100 to 100.&nbsp;</p><p><br></p><p>Anything over 50 is considered excellent. Anything below 0 needs work.</p>",
+        "itemIndex": 2
+      }
+    ],
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Using the Net Promoter Score",
+    "_type": "component",
+    "_courseOrder": "3-4-0-0"
+  },
+  {
+    "_id": "596739671568f8e516393346",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739671568f8e516393344",
+    "__v": 0,
+    "_refId": "59304bb802778c512a0afbf1",
+    "body": "<p>Good dashboards make KPI and other business critical data accessible and understandable to the whole team.</p><p><br></p><p>A good dashboard should highlight your KPI clearly. For great examples of dashboards check out out posts by&nbsp;Christoph Janz and these examples by GeckoBoard.</p><p><br></p><p><b>Show me</b> -&nbsp;<a href=\"http://christophjanz.blogspot.com/2013/12/a-kpi-dashboard-for-early-stage-saas.html\" target=\"_blank\">A KPI dashboard for early-stage SaaS startups</a></p><p><br></p><p><b>Show me</b> -&nbsp;<a href=\"https://www.geckoboard.com/blog/#.WYDBlIjyvIV\" target=\"_blank\">GeckoBoard Blog</a></p><p><br></p><p>As your business grows it's common to have multiple dashboards for different teams.&nbsp;</p><p><br></p><p>For example, the sales team can have a dashboard that monitors the sales pipeline and funnel while the customer service can have one which displays how many customer requests are pending.</p><p><br></p><p>Devin Hunt tells us more.</p>",
+    "displayTitle": "Use dashboards to share data",
+    "instruction": "",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Use dashboards to share data",
+    "_type": "component",
+    "_courseOrder": "3-5-0-0"
+  },
+  {
+    "_id": "596739671568f8e516393345",
+    "_component": "videoStream",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739671568f8e516393344",
+    "__v": 0,
+    "_refId": "59304bb302778c512a0afbf0",
+    "_media": {
+      "_source": "<iframe src=\"https://player.vimeo.com/video/217190553\" width=\"640\" height=\"360\" frameborder=\"0\" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href=\"https://vimeo.com/217190553\">C9M6 - Sharing performance- dashboards</a> from <a href=\"https://vimeo.com/user65166454\">DBAVideo</a> on <a href=\"https://vimeo.com\">Vimeo</a>.</p>",
+      "_isLightTheme": false,
+      "_isAllowFullscreen": true,
+      "_isAutoHideControls": true,
+      "_isShowClosedCaptions": false,
+      "_isHD": true,
+      "_isKeyboardDisabled": false,
+      "_isLoop": false,
+      "_isShowRelated": false,
+      "_isAutoPlay": false
+    },
+    "_service": "vimeo",
+    "_setCompletionOn": "inview",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Video Stream Title",
+    "_type": "component",
+    "_courseOrder": "3-5-0-1"
+  },
+  {
+    "_id": "596739681568f8e51639335a",
+    "_component": "narrative",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739681568f8e516393359",
+    "__v": 0,
+    "_refId": "5915d778ab2b7fcd1eabe8bc",
+    "body": "<p>Here are some tools to consider for displaying and sharing your data with colleagues.</p>",
+    "displayTitle": "Dashboard tools",
+    "instruction": "",
+    "_items": [
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5948e3f559319c6b51c5bd45",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 0,
+        "_id": "5915d782ab2b7fcd1eabe8bd",
+        "body": "<p><span style=\"font-size: 16px;\">Yep, just a plain old spreadsheet.&nbsp;</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">Hopefully, the exercises we provide throughout this course have demonstrated the power of a well-built spreadsheet. If you’re just starting up, start with a spreadsheet!</span><br></p>",
+        "title": "Sheets"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5948e3f559319c6b51c5bd44",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 1,
+        "_id": "5915d78eab2b7fcd1eabe8be",
+        "body": "<p><span style=\"font-size: 16px;\">Geckoboard allows you to quickly build a KPI dashboard for any business purpose.&nbsp;</span></p><p><span style=\"font-size: 16px;\"><br></span></p><p><span style=\"font-size: 16px;\">It integrates with many online analytics systems.</span><br></p>",
+        "title": "Geckoboard"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5948e4dc59319c6b51c5bd46",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 2,
+        "_id": "5915d79cab2b7fcd1eabe8bf",
+        "body": "<p><span style=\"font-size: 16px;\">Similar to Geckoboard, Leftronic is a dashboard creation tool that uses different services and data feeds to visualise your KPI.</span><br></p>",
+        "title": "Leftronic"
+      },
+      {
+        "_graphic": {
+          "src": {
+            "_id": "5948e3f559319c6b51c5bd42",
+            "_extension": "jpeg",
+            "_type": "image",
+            "_size": "large"
+          }
+        },
+        "itemIndex": 3,
+        "_id": "5915d7a7ab2b7fcd1eabe8c0",
+        "body": "<p><span style=\"font-size: 16px;\">Freeboard offers similar features to the above but with a focus on Internet of Things devices.</span><br></p>",
+        "title": "Freeboard"
+      }
+    ],
+    "_narrativeLayout": "Right",
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Dashboard tools",
+    "_type": "component",
+    "_courseOrder": "3-6-0-0"
+  },
+  {
+    "_id": "596739681568f8e51639335d",
+    "_component": "text",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739681568f8e51639335c",
+    "__v": 0,
+    "_refId": "59304b0e02778c512a0afbed",
+    "body": "<p>Testimonials aren’t complicated.&nbsp;</p><p><br></p><p>The hard part is gathering them. You should always be getting feedback from your customers, whether it is by interview, surveys, or even during a customer service experience. If a quote comes up that would be useful in a promotional setting, get their permission to use it.</p><p><br></p><p>In a more traditional business-to-business context be sure to follow up with a client after work has completed. Ask them something along the lines of : 'Could you describe how the project went?'.</p><p><br></p><p>The response usually will be a great testimonial.&nbsp;</p><p><br></p><p>Unless of course, the project was a complete failure. Do not be afraid to ask them to modify their response to better fit your needs. Often you can write the quote for your client, and ask them to agree to it.</p>",
+    "displayTitle": "Why bother with testimonials?",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Why bother with testimonials?",
+    "_type": "component",
+    "_courseOrder": "3-7-0-0"
+  },
+  {
+    "_id": "596739681568f8e51639335e",
+    "_component": "graphic",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739681568f8e51639335c",
+    "__v": 0,
+    "_refId": "59304b1502778c512a0afbee",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5948e5cf59319c6b51c5bd47"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "3-7-0-1"
+  },
+  {
+    "_id": "596739671568f8e516393350",
+    "_component": "accordion",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739671568f8e51639334f",
+    "__v": 0,
+    "_refId": "5915de90ab2b7fcd1eabe8e7",
+    "body": "<p>Here is a suggestion on how you might structure a case study.</p>",
+    "displayTitle": "Structuring case studies",
+    "instruction": "",
+    "_items": [
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>A brief introduction to the whole project</p>",
+        "title": "Summary",
+        "_id": "5915de9aab2b7fcd1eabe8e8",
+        "itemIndex": 0
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Problem",
+        "itemIndex": 1,
+        "_id": "5915dea5ab2b7fcd1eabe8e9",
+        "body": "<p>What needed to be accomplished?</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "title": "Solution",
+        "itemIndex": 2,
+        "_id": "5915deb9ab2b7fcd1eabe8ea",
+        "body": "<p>How the project was approached</p>"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>Was it successful?&nbsp;<span style=\"font-size: 16px;\">How successful was it?</span></p><p><br></p><p>If not, why?</p>",
+        "itemIndex": 3,
+        "_id": "5915dec9ab2b7fcd1eabe8eb",
+        "title": "Outcome"
+      },
+      {
+        "_mediaType": "image",
+        "_video": {
+          "_shouldAutoPlay": false
+        },
+        "_itemGraphicLayout": "right",
+        "body": "<p>Show the evidence to support how the project was approached.</p><p><br></p><p>Also a great place for customer testimonials!</p>",
+        "itemIndex": 4,
+        "_id": "5915ded8ab2b7fcd1eabe8ec",
+        "title": "Data"
+      }
+    ],
+    "_shouldShowCheckIcon": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Structuring case studies",
+    "_type": "component",
+    "_courseOrder": "3-8-0-0"
+  },
+  {
+    "_id": "599c06a8c7e58f501fad3a83",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739681568f8e516393366",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "__v": 0,
+    "_refId": "599c06a8c7e58f501fad3a83",
+    "body": "<p>Collect 50 points for every correct answer</p>",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Text Title",
+    "_type": "component",
+    "_courseOrder": "3-9-0-0"
+  },
+  {
+    "_id": "596739661568f8e51639333f",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739661568f8e51639333d",
+    "__v": 0,
+    "_refId": "5922c7f602778c512a0af06c",
+    "body": "<p>The following questions are based on the customer dashboard below.&nbsp;</p><p><br></p><p>Calculations:</p><p>NPS = percentage of promoters - percentage of detractors</p><p><br></p><p>in other words:</p><p><br></p><p>NPS = (number of promoters - number of detractors) / (total people asked)</p>",
+    "displayTitle": "Net Promoter Score",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "5922c80a02778c512a0af06d"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_textAlign": "left",
+      "_fontSize": ""
+    },
+    "title": "Net Promoter Score",
+    "_type": "component",
+    "_courseOrder": "3-10-0-0"
+  },
+  {
+    "_id": "596739661568f8e51639333e",
+    "_component": "mcq",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739661568f8e51639333d",
+    "__v": 0,
+    "_refId": "5915dc6aab2b7fcd1eabe8cf",
+    "body": "<p style=\"text-align: left;\">Using the NPS methodology, what is the NPS for this business in June?&nbsp;</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\">Round up to the nearest whole number.</p>",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>The NPS in June is calculated as (Net Promoters-Net Detractors) / Total number of people asked.&nbsp;</p>",
+        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>The NPS in June is calculated as (Net Promoters-Net Detractors) / Total number of people asked.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>The NPS in June is calculated as (Net Promoters-Net Detractors) / Total number of people asked.&nbsp;</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 0,
+        "_id": "5915dc94ab2b7fcd1eabe8d0",
+        "text": "93"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "5915dc98ab2b7fcd1eabe8d1",
+        "text": "15"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "5915dc9bab2b7fcd1eabe8d2",
+        "text": "72"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "5915dca4ab2b7fcd1eabe8d3",
+        "text": "97"
+      }
+    ],
+    "_shouldUseQuestionGraphic": true,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "displayTitle": "",
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": true
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "T9C4Q1 Net Promoter Score",
+    "_type": "component",
+    "_courseOrder": "3-10-0-1"
+  },
+  {
+    "_id": "596739681568f8e516393364",
+    "_component": "mcq",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739681568f8e516393363",
+    "__v": 0,
+    "_refId": "5915dce6ab2b7fcd1eabe8d5",
+    "body": "<p>Using the data in the table above here's another question.</p><p><br></p><p>What was the NPS in August?</p>",
+    "instruction": "",
+    "displayTitle": "Net Promoter Score continued",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>The net promoter score is calculated as (# Promoters - #Detractors)/ number of people asked.&nbsp;</p>",
+        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><br></p><p>The net promoter score is calculated as (# Promoters - #Detractors)/ number of people asked.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><br></p><p>The net promoter score is calculated as (# Promoters - #Detractors)/ number of people asked.&nbsp;</p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "69",
+        "_id": "5915dcf4ab2b7fcd1eabe8d6",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "5915dcfaab2b7fcd1eabe8d7",
+        "text": "33"
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "27",
+        "_id": "5915dd01ab2b7fcd1eabe8d8",
+        "itemIndex": 2
+      },
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "5915dd06ab2b7fcd1eabe8d9",
+        "text": "60"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 1,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": true
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "T9C4Q2 Net Promoter Score continued",
+    "_type": "component",
+    "_courseOrder": "3-11-0-0"
+  },
+  {
+    "_id": "596739671568f8e516393354",
+    "_component": "graphic",
+    "_layout": "left",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739671568f8e516393352",
+    "__v": 0,
+    "_refId": "5915dff4ab2b7fcd1eabe904",
+    "_graphic": {
+      "small": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "5948e64459319c6b51c5bd48"
+      },
+      "_isExternalLink": false
+    },
+    "_graphicTextRightPadding": 0,
+    "_graphicTextLeftPadding": 0,
+    "_graphicTextBottomPadding": 0,
+    "_graphicTextTopPadding": 0,
+    "_contentWidth": 100,
+    "layout": "top",
+    "_shouldEnableGraphicText": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "Graphic Title",
+    "_type": "component",
+    "_courseOrder": "3-12-0-0"
+  },
+  {
+    "_id": "596739671568f8e516393353",
+    "_component": "mcq",
+    "_layout": "right",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739671568f8e516393352",
+    "__v": 0,
+    "_refId": "5915df9aab2b7fcd1eabe8f8",
+    "body": "<p>What should a good case study do?&nbsp;</p><p><br></p><p>Choose four of the five options.</p>",
+    "displayTitle": "Case studies",
+    "instruction": "",
+    "_feedback": {
+      "_shouldUseGlobalCorrectFeedback": false,
+      "_incorrect": {
+        "_shouldUseGlobalIncorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that? </b></p><p><br></p><p>A good case study should</p><p><br></p><p>Include a Net Promoter Score and testimonials</p><p>Explain if the project was a success</p><p>Contain a summary of the work undertaken</p><p>Outline how large the project team was</p><p><br></p><p>Are all valuable features of a case study.&nbsp;</p>",
+        "final": "<p><b>Are you sure about that?&nbsp;</b></p><p><b><br></b></p><p>A good case study should</p><p><br></p><p></p><ul><li>Include a Net Promoter Score and testimonials<br></li><li>Explain if the project was a success<br></li><li>Contain a summary of the work undertaken<br></li><li>Outline how large the project team was<br></li></ul><p></p><p><br></p><p>Are all valuable features of a case study.&nbsp;</p>"
+      },
+      "_partlyCorrect": {
+        "_shouldUseGlobalPartlyCorrectFeedback": false,
+        "notFinal": "<p><b>Are you sure about that!</b></p><p><br></p><p>A good case study should : </p><p><br></p><p><ul><li>Include a Net Promoter Score and testimonials<br></li><li>Explain if the project was a success<br></li><li>Contain a summary of the work undertaken<br></li><li>Outline how large the project team was<br></li><li>Are all valuable features of a case study.&nbsp;<br></li></ul></p>"
+      },
+      "_correctGraphic": {
+        "_position": "right"
+      },
+      "_incorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_incorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectFinalGraphic": {
+        "_position": "right"
+      },
+      "_partlyCorrectNotFinalGraphic": {
+        "_position": "right"
+      },
+      "correct": "<p><b>That's right!&nbsp;</b></p><p><b><br></b></p><p>A good case study should :&nbsp;</p><p><br></p><p></p><ul><li>Include a Net Promoter Score and testimonials<br></li><li>Explain if the project was a success<br></li><li>Contain a summary of the work undertaken<br></li><li>Outline how large the project team was<br></li></ul><p></p><p> </p><p><br></p><p>These are all valuable features of a case study.&nbsp;</p><p><br></p>"
+    },
+    "_items": [
+      {
+        "_shouldBeSelected": false,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "text": "Have a quiz section at the end",
+        "_id": "5915dfa4ab2b7fcd1eabe8f9",
+        "itemIndex": 0
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 1,
+        "_id": "5915dfa9ab2b7fcd1eabe8fa",
+        "text": "Explain if the project was a success"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 2,
+        "_id": "5915dfaeab2b7fcd1eabe8fb",
+        "text": "Contain a summary of the work undertaken"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 3,
+        "_id": "5915dfb3ab2b7fcd1eabe8fc",
+        "text": "Outline how large the project team was"
+      },
+      {
+        "_shouldBeSelected": true,
+        "_feedbackGraphic": {
+          "_position": "right"
+        },
+        "itemIndex": 4,
+        "_id": "5922cb1902778c512a0af06e",
+        "text": "<span style=\"font-size: 16px;\">Include a Net Promoter Score and testimonials</span><br>"
+      }
+    ],
+    "_shouldUseQuestionGraphic": false,
+    "_canAutoSubmit": false,
+    "_shouldShowDisplayTitleInFeedback": true,
+    "_shouldUseIndividualItemFeedback": false,
+    "_useCustomItemPrefix": false,
+    "_selectable": 4,
+    "_isRandom": true,
+    "_shouldDisplayAttempts": false,
+    "_attempts": 10,
+    "_useQuestionBank": false,
+    "_interactionLabel": {
+      "_location": "before widget"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": true,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": true
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": true
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "title": "T9C4Q3 Case studies",
+    "_type": "component",
+    "_courseOrder": "3-12-0-1"
+  },
+  {
+    "_id": "596739661568f8e516393342",
+    "_component": "text",
+    "_layout": "full",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739661568f8e516393341",
+    "__v": 0,
+    "body": "<p>There are a range of formats for gathering data including analytics, surveys, Net Promoter Scores, and rich case studies.&nbsp;</p><p><br></p><p>You also now have ways to share the data with colleagues in a clear and meaningful way.&nbsp;</p>",
+    "displayTitle": "",
+    "_refId": "58eb4513192f4e895e96aca1",
+    "_interactionLabel": {
+      "_location": "before body"
+    },
+    "_isInteractionLabelEnabled": false,
+    "_isQuestionType": false,
+    "_tags": {
+      "_tagsList": [],
+      "_isEnabled": false
+    },
+    "_stamps": {
+      "_isEnabled": false
+    },
+    "_reflection": {
+      "_isEnabled": false
+    },
+    "_progress": {
+      "_isEnabled": true
+    },
+    "_courseAttainment": {
+      "_isEnabled": false
+    },
+    "_courseAssessment": {
+      "_isEnabled": false
+    },
+    "_assignment": {
+      "feedback": "",
+      "_isCorrect": false,
+      "_isMarked": false,
+      "_isEnabled": false
+    },
+    "_badges": {
+      "_badgeIds": []
+    },
+    "_points": {
+      "_isEnabled": false
+    },
+    "_stars": {
+      "_isEnabled": false
+    },
+    "_links": {
+      "_isEnabled": false
+    },
+    "_classes": "",
+    "_displayTitleSettings": {
+      "_fontSize": ""
+    },
+    "title": "Capture data for analytics. Let's wrap it up",
+    "_type": "component",
+    "_courseOrder": "3-13-0-0"
+  }
+]

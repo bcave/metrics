@@ -1,0 +1,536 @@
+[
+  {
+    "_id": "596739641568f8e516393312",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739631568f8e51639330f",
+    "_sortOrder": 0,
+    "__v": 0,
+    "displayTitle": "Knowing what to measure",
+    "duration": "15 minutes",
+    "_refId": "58eb4510192f4e895e96abb8",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_hoverGraphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "jpeg",
+          "_id": "58b02e8d6faa37e744951399"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "jpeg",
+        "_id": "58b040a16faa37e7449513e2"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "Knowing what to measure",
+      "_graphic": {
+        "_large": {
+          "src": {
+            "_id": "58b41ffc6faa37e744951408",
+            "_extension": "png",
+            "_type": "image",
+            "_size": "large"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Knowing what to measure",
+    "_type": "page",
+    "_courseOrder": "0"
+  },
+  {
+    "_id": "596739681568f8e516393367",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739631568f8e51639330f",
+    "_sortOrder": 1,
+    "__v": 0,
+    "displayTitle": "Make sense of data through cohorts",
+    "_refId": "58eb4516192f4e895e96ad00",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "title": "Make sense of data through cohorts",
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "title": "Make sense of data through cohorts",
+    "_type": "page",
+    "_courseOrder": "1"
+  },
+  {
+    "_id": "5967396a1568f8e51639337e",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739631568f8e51639330f",
+    "_sortOrder": 2,
+    "__v": 0,
+    "_refId": "5915ad03ab2b7fcd1eabe853",
+    "displayTitle": "Convert customers using the funnel",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View"
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "title": "Convert customers using the funnel",
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "Duration",
+    "linkText": "View",
+    "title": "Convert customers using the funnel",
+    "_type": "page",
+    "_courseOrder": "2"
+  },
+  {
+    "_id": "596739661568f8e516393338",
+    "_courseId": "596739631568f8e51639330f",
+    "_parentId": "596739631568f8e51639330f",
+    "_sortOrder": 3,
+    "__v": 0,
+    "displayTitle": "Capture data for analytics",
+    "duration": "15 minutes",
+    "_refId": "58eb4512192f4e895e96ac77",
+    "_swipeMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "_shouldShowControlsOnBottom": false,
+      "_shouldDisableItemScaling": false,
+      "_shouldDisableDetailOnHover": false,
+      "_hoverGraphic": {
+        "src": {
+          "_size": "small",
+          "_type": "image",
+          "_extension": "png",
+          "_id": "58b948ff6faa37e7449516a8"
+        }
+      }
+    },
+    "_standardMenu": {
+      "_shouldShowIconOnMenuItems": true,
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      }
+    },
+    "_mapMenu": {
+      "_position": {
+        "_top": 50,
+        "_left": 50
+      }
+    },
+    "_coverMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_coverButtonText": "View",
+      "src": {
+        "_size": "large",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b0435a6faa37e7449513e9"
+      }
+    },
+    "_boxMenu": {
+      "_shouldShowProgressBarsOnMenus": true,
+      "_mobileBackgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_backgroundImage": {
+        "_repeat": false,
+        "_fixed": false,
+        "_position": "center",
+        "_size": "cover"
+      },
+      "_heroImage": {
+        "_contentWidth": 70,
+        "textAlignment": "left",
+        "layout": "center"
+      },
+      "src": {
+        "_size": "small",
+        "_type": "image",
+        "_extension": "png",
+        "_id": "58b948ff6faa37e7449516a8"
+      }
+    },
+    "_contentLocking": {
+      "_requiredAmount": 0,
+      "_requiredCompleteIds": [],
+      "_shouldDisableNotifyOnUnlock": false,
+      "_lockingType": "contentObject",
+      "_isEnabled": false
+    },
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": true,
+      "_fixed": false,
+      "_position": "top",
+      "_size": "contain"
+    },
+    "_heroImage": {
+      "title": "Capture data for analytics",
+      "_graphic": {
+        "_small": {
+          "src": {
+            "_size": "small",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "58b949746faa37e7449516ad"
+          }
+        },
+        "_large": {
+          "src": {
+            "_size": "large",
+            "_type": "image",
+            "_extension": "png",
+            "_id": "58b949746faa37e7449516ad"
+          }
+        }
+      },
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center",
+      "_isEnabled": false
+    },
+    "_hidePageHeader": false,
+    "_categories": [],
+    "durationLabel": "🕜 ",
+    "linkText": "Let's go!",
+    "title": "Capture data for analytics",
+    "_type": "page",
+    "_courseOrder": "3"
+  }
+]

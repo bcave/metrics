@@ -1,0 +1,307 @@
+{
+  "_id": "596739631568f8e51639330f",
+  "_createdAt": 1499937123685,
+  "_modifiedAt": 1504277932668,
+  "__v": 2,
+  "_refId": "58eb4510192f4e895e96abb5",
+  "body": "",
+  "_theme": "58b69e3d6faa37e74495146f",
+  "displayTitle": "Metrics<br>",
+  "_swipeMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center"
+    },
+    "_shouldShowControlsOnBottom": false,
+    "_shouldDisableItemScaling": false,
+    "_shouldDisableDetailOnHover": false
+  },
+  "_standardMenu": {
+    "_shouldShowIconOnMenuItems": true,
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuContentItems": [],
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center"
+    }
+  },
+  "_playlistMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_menuGroupLabel": "Topics"
+  },
+  "_mapMenu": {
+    "_closeButtonText": "Close",
+    "_defaultPointerImage": {
+      "_id": "58af18c350d3bf600d233b6e",
+      "_extension": "png",
+      "_type": "image"
+    },
+    "_mapImage": {
+      "_id": "58b02c5c6faa37e744951397",
+      "_extension": "png",
+      "_type": "image",
+      "_size": "large"
+    }
+  },
+  "_coverMenu": {
+    "_shouldShowProgressBarsOnMenus": true,
+    "_coverButtonText": "View",
+    "src": {
+      "_id": "58b02c5c6faa37e744951397",
+      "_extension": "png",
+      "_type": "image",
+      "_size": "large"
+    }
+  },
+  "_boxMenu": {
+    "_menuContentItems": [],
+    "_shouldShowProgressBarsOnMenus": true,
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_heroImage": {
+      "_contentWidth": 70,
+      "textAlignment": "left",
+      "layout": "center"
+    }
+  },
+  "_progress": {
+    "_isOnRightSide": true,
+    "_progressNavigationItemIcon": "list3",
+    "progressSidebarAriaLabel": "Tab to move through the page items",
+    "progressAriaLabel": "Select this button to toggle the progress sidebar",
+    "courseExitButtonText": "Exit course",
+    "_showCourseExitButton": true,
+    "_showComponentProgress": false,
+    "title": "Progress",
+    "_isEnabled": true
+  },
+  "_courseAttainment": {
+    "closeWindowText": "Back to DBA",
+    "_shouldUseCorrectQuestions": true,
+    "_shouldCloseWindowOnCourseAttained": true,
+    "_shouldHideSummaryAndIcon": true,
+    "completionNotifyTitle": "Course complete!",
+    "completionTitle": "Course complete!",
+    "_attainmentMethod": "components",
+    "_isEnabled": true,
+    "title": "Course complete!"
+  },
+  "_achievements": {
+    "body": "<p style=\"text-align: right;\">Keep track of how many points you have unlocked.&nbsp;</p><p style=\"text-align: right;\"> </p><p style=\"text-align: right;\">You can&nbsp;<a href=\"http://www.digitalbusinessacademyuk.com/#/rewards\" target=\"_blank\">spend your points on the rewards page</a>. &nbsp;</p>",
+    "_badges": {
+      "_items": [
+        {
+          "itemIndex": 0,
+          "_id": "58b035ec6faa37e7449513a8",
+          "_badgeCompletionType": "components"
+        }
+      ],
+      "badgeNotifyTitle": "You earned a badge!",
+      "badgesLabel": "Badges",
+      "badgesName": "Badges",
+      "_isEnabled": false
+    },
+    "_stars": {
+      "starsMissedLabel": "Stars missed",
+      "starsToCollectLabel": "Stars to collect",
+      "starsLabel": "Stars",
+      "starsName": "Stars",
+      "_isEnabled": false
+    },
+    "_lives": {
+      "_totalLives": 3,
+      "livesLabel": "Lives",
+      "livesName": "Lives",
+      "_isEnabled": false
+    },
+    "_points": {
+      "_defaultPoints": 50,
+      "pointsLabel": "Points",
+      "pointsName": "Points",
+      "_isEnabled": true
+    },
+    "title": "&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Points<br>",
+    "_isEnabled": true
+  },
+  "_pageBackgroundImage": {
+    "_mobileBackgroundImage": {
+      "_repeat": false,
+      "_fixed": false,
+      "_position": "center",
+      "_size": "cover"
+    },
+    "_backgroundImage": {
+      "_repeat": false,
+      "_fixed": true,
+      "_position": "top",
+      "_size": "cover",
+      "src": {
+        "_id": "592e999902778c512a0afb9b",
+        "_extension": "jpeg",
+        "_type": "image"
+      }
+    }
+  },
+  "_courseTags": [
+    "592e910302778c512a0afb8c",
+    "592e913202778c512a0afb90",
+    "59301e3802778c512a0afbcd"
+  ],
+  "_fonts": {
+    "_installed": [],
+    "_google": []
+  },
+  "_downloads": {
+    "viewDownloadsButtonText": "View downloads",
+    "nameRequiredText": "Name required",
+    "nameLabelText": "Name",
+    "body": "",
+    "title": "Downloads"
+  },
+  "_globals": {
+    "_questionAttempts": {
+      "_attempts": 1,
+      "_shouldUseGlobalAttempts": false
+    },
+    "_feedbackText": {
+      "incorrectFinalFeedback": "Incorrect",
+      "incorrectNotFinalFeedback": "Incorrect, try again",
+      "partlyCorrectFinalFeedback": "Partly correct",
+      "partlyCorrectNotFinalFeedback": "Partly correct, try again",
+      "correctFeedback": "Correct"
+    }
+  },
+  "_buttons": {
+    "disabledAriaLabel": "This button is disabled.",
+    "remainingAttemptText": "final attempt",
+    "remainingAttemptsText": "attempts remaining",
+    "_hideFeedback": {
+      "ariaLabel": "Select this button to hide the feedback",
+      "buttonText": "Close"
+    },
+    "_showFeedback": {
+      "ariaLabel": "Select this button to show the feedback",
+      "buttonText": "Show Feedback"
+    },
+    "_hideCorrectAnswer": {
+      "ariaLabel": "Select this button to hide the correct answer",
+      "buttonText": "Hide Answer"
+    },
+    "_showCorrectAnswer": {
+      "ariaLabel": "Select this button to show the correct answer",
+      "buttonText": "Show Answer"
+    },
+    "_reset": {
+      "ariaLabel": "Select this button to reset your answer",
+      "buttonText": "Reset"
+    },
+    "_submit": {
+      "ariaLabel": "Select this button to submit your answer",
+      "buttonText": "Submit"
+    }
+  },
+  "_footerNav": {
+    "pageOfText": "of",
+    "_shouldDisableTitleButtonText": false,
+    "nextButtonText": "Next",
+    "previousButtonText": "Previous",
+    "_isEnabled": true
+  },
+  "_notify": {
+    "_buttonAlignment": "center",
+    "_iconAlignment": "center",
+    "_bodyTextAlignment": "center",
+    "_titleTextAlignment": "center"
+  },
+  "_navigation": {
+    "sidebarAriaLabel": "Tab to move through extra navigation items",
+    "hamburgerAriaLabel": "Select this button to toggle the sidebar navigation",
+    "dashboardText": "Dashboard",
+    "backText": "Back to Page",
+    "backToMenuText": "Back to Menu",
+    "_shouldHideMenu": true
+  },
+  "_version": {
+    "_isVersion": false,
+    "_masterVersionId": null,
+    "versionTitle": null,
+    "_isLanguageVersion": false
+  },
+  "_reviews": {
+    "_reviews": [
+      {
+        "_id": "59316a6502778c512a0afc31",
+        "title": "Course 9 Gate 2 Review",
+        "_createdBy": "5897aece50d3bf600d233ab1",
+        "_reviewers": [
+          {
+            "_id": "59316a6502778c512a0afc33",
+            "_reviewer": "58ad714f50d3bf600d233ada",
+            "reviewFeedback": "",
+            "_hasPassed": true,
+            "_status": "started"
+          },
+          {
+            "_completedAt": "Mon Jun 05 2017 13:45:42 GMT+0000 (UTC)",
+            "_id": "59316a6502778c512a0afc32",
+            "_reviewer": "58ad716650d3bf600d233adb",
+            "reviewFeedback": "",
+            "_hasPassed": true,
+            "_status": "complete"
+          }
+        ],
+        "_hasPrivateAnnotations": false,
+        "_isActive": true,
+        "_createdAt": "Fri Jun 02 2017 13:38:45 GMT+0000 (UTC)"
+      }
+    ],
+    "_isUnderReview": true
+  },
+  "_categoryGroups": [],
+  "_categories": [],
+  "_isEditLocked": false,
+  "_displayTitleSettings": {
+    "_fontSize": "",
+    "_textAlign": "center"
+  },
+  "title": "Metrics",
+  "_type": "course"
+}
